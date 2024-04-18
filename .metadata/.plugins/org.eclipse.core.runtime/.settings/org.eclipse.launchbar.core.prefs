@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ConsumerApplication,org.eclipse.launchbar.core.descriptorType.default\:ProducerApplication,org.eclipse.launchbar.core.descriptorType.default\:consumer - ConsumerApplication,org.eclipse.launchbar.core.descriptorType.default\:producer - ProducerApplication
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ConsumerApplication/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ConsumerApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:consumer\ -\ ConsumerApplication/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:consumer\ -\ ConsumerApplication/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:producer\ -\ ProducerApplication/activeLaunchMode=run
